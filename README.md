@@ -1,6 +1,6 @@
 # UnixProject
 
-Ali &amp; Andy A21
+Final Project for A21 (Andy-Tason Nguyen-Chao & Ali Alnajjar)
 
 ## TaskList
 
