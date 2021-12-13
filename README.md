@@ -4,16 +4,16 @@ Final Project for A21 (Andy-Tason Nguyen-Chao & Ali Alnajjar)
 
 ## TaskList
 
-- [ ] Setup SSH
-  - [ ] SSH Keys
-  - [ ] Connection to remote server
-- [ ] Enable VPS
-- [ ] Setup Server Rules
-  - [ ] Admin
+- [x] Setup SSH
+  - [x] SSH Keys
+  - [x] Connection to remote server
+- [x] Enable VPS
+- [x] Setup Server Rules
+  - [x] Admin
   - [ ] Client
-- [ ] Find Relevant SysAdmin commands
-  - [ ] SSH Authentication
-  - [ ] Manage Users
+- [x] Find Relevant SysAdmin commands
+  - [x] SSH Authentication
+  - [x] Manage Users
 - [ ] Document every steps
 - [ ] Install the software for SSH
 - [ ] Do auto-deploymment process
